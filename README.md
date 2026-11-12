@@ -15,7 +15,9 @@
 
 ## Диаграммалар
 ### 1. Use Case
+![Use Case](docs/diagrams/01-usecase.png)
 ### 2. Class
+![Class](docs/diagrams/02-class.png)
 ### 3. Activity: Баға қою
 ![Activity](docs/diagrams/03-activity.png)
 ### 4. Sequence: Баға қою
